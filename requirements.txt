@@ -1,0 +1,14 @@
+# PCR Pipeline – Python dependencies
+#
+# First-time setup:
+#   python3 -m venv venv
+#   source venv/bin/activate   # Windows: venv\Scripts\activate
+#   pip install -r requirements.txt
+#
+# Then run scripts with the venv active, or: ./venv/bin/python script.py
+
+beautifulsoup4>=4.12.0
+tqdm>=4.65.0
+biopython>=1.81
+matplotlib>=3.7.0
+numpy>=1.24.0

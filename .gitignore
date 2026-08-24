@@ -1,0 +1,23 @@
+# Data (large; lives on lab computer only)
+data/
+source_data/
+genomes/
+reference/
+
+# Virtual environment
+venv/
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
